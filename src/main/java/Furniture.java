@@ -8,7 +8,7 @@ public class Furniture {
         // You write this part
     }
 
-    // You write any functions needed to change state and print the status of the furniture instance
+    // You write any functions needed to change state
     
     public String toString() {
         // Use this method to report status like "The plywood chair is not broken, and it is not burnt."    
